@@ -8,3 +8,4 @@ In this project, we implemented three approach to volatility prediction:
 3. Recurrent Neural Network : LSTM & GRU
 
 Our research paper is also included in the repo.
+Video explaination can be found here: https://drive.google.com/drive/folders/1TGIuxxGWWwmgpCmpT7DnQoZvv7tRlDw8?usp=sharing
